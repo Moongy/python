@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Moongy
 I like Moongy
+Creating a new branch is quick.
